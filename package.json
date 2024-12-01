@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "gh-pages": "^6.2.0"
+    },
+    "homepage": "https://miiine.github.io/project_html_css_03",
+    "scripts": {
+        "deploy": "gh-pages -d ."
+    }
+}
